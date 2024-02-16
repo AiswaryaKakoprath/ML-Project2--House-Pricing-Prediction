@@ -14,13 +14,14 @@ Results:
 
 The project presents the performance metrics of each classification algorithm:
 
-Model	Accuracy	Precision	Recall	F1-Score
-Logistic Reg	0.901810	0.573402	0.260801	0.358531
-KNN	0.904868	0.558429	0.457973	0.503237
-Naive Bayes	0.905695	0.562977	0.463472	0.508402
-Decision Tree	0.918175	0.618212	0.581304	0.599190
-Random Forest	0.917018	0.633300	0.501964	0.560035
-SVM	0.902802	0.656958	0.159466	0.256637
+|Model|Accuracy|Precision|Recall|F1-Score|
+|---|---|---|---|---|
+|Logistic Reg|0.901810|0.573402|0.260801|0.358531|
+|KNN|0.904868|0.558429|0.457973|0.503237|
+|Naive Bayes|0.905695|0.562977|0.463472|0.508402|
+|Decision Tree|0.918175|0.618212|0.581304|0.599190|
+|Random Forest|0.917018|0.633300|0.501964|0.560035|
+|SVM|0.902802|0.656958|0.159466|0.256637|
 
 Conclusion:
 
